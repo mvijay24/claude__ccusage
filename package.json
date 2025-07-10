@@ -15,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ccusage.git"
+    "url": "https://github.com/mvijay24/claude__ccusage.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ccusage/issues"
+    "url": "https://github.com/mvijay24/claude__ccusage/issues"
   },
-  "homepage": "https://github.com/yourusername/ccusage#readme",
+  "homepage": "https://github.com/mvijay24/claude__ccusage#readme",
   "dependencies": {
     "chalk": "^5.3.0",
     "cli-table3": "^0.6.3",

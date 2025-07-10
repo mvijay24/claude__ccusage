@@ -2,6 +2,10 @@
 
 Track your Claude Code usage, costs, and savings across different subscription plans.
 
+> Inspired by the original ccusage tool from "The COST of Claude Code" YouTube video
+
+[![GitHub](https://img.shields.io/github/stars/mvijay24/claude__ccusage?style=social)](https://github.com/mvijay24/claude__ccusage)
+
 ## Features
 
 - 📊 **Daily Usage**: View token usage and costs by day
